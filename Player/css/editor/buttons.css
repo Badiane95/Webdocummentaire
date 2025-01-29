@@ -116,14 +116,14 @@
 	text-align: center;
 	text-decoration: none;
 	background-color: rgba(0,0,0,1);
-	border: 2px solid rgba(255,204,153,1);
+	border: 1px solid rgba(255,204,153,1);
 	border-radius: 10px;
 }
 
 .klynt-button-4:hover {
 	background-color: rgba(0,0,0,1);
 	color: rgba(255,255,255,1);
-	border: 3px solid rgba(255,204,153,1);
+	border: 1px solid rgba(255,204,153,1);
 	border-radius: 10px;
 	font-family: MuseoModerno;
 	font-size: 20px;

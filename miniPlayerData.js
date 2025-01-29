@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
     "resumePlaybackWording": "Relancer la lecture ?",
     "yesWording": "Oui",
-    "downloadAppWording": "Télécharger l'app",
+    "redirectToMobileApp": "auto",
+    "thanksForWatchingWording": "Merci de votre visite !",
     "noWording": "Non",
     "analyticsKey": "",
-    "thumbnail": "Medias/Photos/Votre_texte_de_paragraphe__3_.png",
-    "redirectToMobileApp": "auto",
+    "downloadAppWording": "Télécharger l'app",
+    "title": "Test webdoc",
     "launchAppWording": "Et lancer le projet",
-    "title": "Réaction",
     "url": "",
     "fullscreenInfoWording": "Ce programme va se lancer en plein écran",
-    "thanksForWatchingWording": "Merci de votre visite !",
-    "description": "Webdocummentaire"
+    "thumbnail": "Medias/Photos/Votre_texte_de_paragraphe__3_.png",
+    "description": ""
 }
